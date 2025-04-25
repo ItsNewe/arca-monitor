@@ -6,6 +6,7 @@ sites:
     url: https://arcafin.fr
   - name: Lighthouse
     url: https://arcafin.fr/lighthouse
+    icon: https://arcafin.fr/lighthouse/media/1dc7bbd1abdec0c569882d634701e5d2c4c57273253013728310546e.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
