@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/arcafin.fr.ico",
     "slug": "arca-home",
     "status": "up",
-    "uptime": "89.42%",
-    "uptimeDay": "44.89%",
-    "uptimeWeek": "10.73%",
+    "uptime": "89.45%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "13.55%",
     "uptimeMonth": "79.46%",
-    "uptimeYear": "89.42%",
+    "uptimeYear": "89.45%",
     "time": 416,
-    "timeDay": 442,
-    "timeWeek": 442,
-    "timeMonth": 393,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 395,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2025-04-24": 892,
@@ -44,5 +44,23 @@
       "2024-10-24": 1440,
       "2024-10-23": 965
     }
+  },
+  {
+    "name": "Lighthouse",
+    "url": "https://arcafin.fr/lighthouse",
+    "icon": "https://icons.duckduckgo.com/ip3/arcafin.fr.ico",
+    "slug": "lighthouse",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
+    "dailyMinutesDown": {}
   }
 ]
