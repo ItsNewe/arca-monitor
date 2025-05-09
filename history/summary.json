@@ -4,18 +4,19 @@
     "url": "https://arcafin.fr",
     "icon": "https://icons.duckduckgo.com/ip3/arcafin.fr.ico",
     "slug": "arca-home",
-    "status": "up",
-    "uptime": "90.03%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "90.05%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "79.46%",
-    "uptimeYear": "90.03%",
+    "uptimeYear": "90.05%",
     "time": 415,
     "timeDay": 393,
     "timeWeek": 430,
     "timeMonth": 395,
     "timeYear": 415,
     "dailyMinutesDown": {
+      "2025-05-09": 0,
       "2025-04-24": 892,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -61,6 +62,8 @@
     "timeWeek": 223,
     "timeMonth": 205,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-09": 0
+    }
   }
 ]
