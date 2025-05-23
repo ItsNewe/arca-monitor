@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ARCA Monitor
-  introTitle: "Powered by **Upptime** and **Github Actions**"
+  introTitle: "Status monitoring for ARCA subsystems"
   introMessage: ":)"
   navbar:
     - title: Status
