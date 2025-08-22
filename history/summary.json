@@ -128,18 +128,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mx.arcafin.fr.ico",
     "slug": "hermes",
     "status": "down",
-    "uptime": "45.20%",
+    "uptime": "45.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.20%",
+    "uptimeYear": "45.19%",
     "time": 491,
     "timeDay": 337,
     "timeWeek": 413,
     "timeMonth": 363,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-08-22": 1118,
+      "2025-08-22": 1134,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
@@ -197,19 +197,19 @@
     "url": "https://s.arcafin.fr/rest/v3/health",
     "icon": "https://icons.duckduckgo.com/ip3/s.arcafin.fr.ico",
     "slug": "shlink",
-    "status": "down",
-    "uptime": "35.58%",
-    "uptimeDay": "35.58%",
-    "uptimeWeek": "35.58%",
-    "uptimeMonth": "35.58%",
-    "uptimeYear": "35.58%",
+    "status": "up",
+    "uptime": "34.66%",
+    "uptimeDay": "34.66%",
+    "uptimeWeek": "34.66%",
+    "uptimeMonth": "34.66%",
+    "uptimeYear": "34.66%",
     "time": 151,
     "timeDay": 151,
     "timeWeek": 151,
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-08-22": 379
+      "2025-08-22": 395
     }
   }
 ]
