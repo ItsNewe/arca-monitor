@@ -9,12 +9,11 @@ sites:
     icon: https://arcafin.fr/lighthouse/media/1dc7bbd1abdec0c569882d634701e5d2c4c57273253013728310546e.png
   - name: Hermès
     url: https://mx.arcafin.fr
+  - name: Shlink
+    url: https://s.arcafin.fr/rest/v3/health
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.arcafin.fr
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ARCA Monitor
   introTitle: "Status monitoring for ARCA subsystems"
