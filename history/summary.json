@@ -139,7 +139,7 @@
     "timeMonth": 359,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2025-08-24": 1051,
+      "2025-08-24": 1063,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -200,18 +200,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.arcafin.fr.ico",
     "slug": "shlink",
     "status": "down",
-    "uptime": "43.52%",
-    "uptimeDay": "43.28%",
-    "uptimeWeek": "43.52%",
-    "uptimeMonth": "43.52%",
-    "uptimeYear": "43.52%",
+    "uptime": "43.38%",
+    "uptimeDay": "42.50%",
+    "uptimeWeek": "43.38%",
+    "uptimeMonth": "43.38%",
+    "uptimeYear": "43.38%",
     "time": 217,
     "timeDay": 228,
     "timeWeek": 217,
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-08-24": 713,
+      "2025-08-24": 724,
       "2025-08-23": 674,
       "2025-08-22": 535
     }
