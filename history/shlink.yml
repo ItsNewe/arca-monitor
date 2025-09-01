@@ -1,7 +1,7 @@
 url: https://s.arcafin.fr/rest/v3/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-01T20:37:45.571Z
+status: up
+code: 200
+responseTime: 83
+lastUpdated: 2025-09-01T21:47:23.423Z
 startTime: 2025-08-22T08:50:13.224Z
 generator: Upptime <https://github.com/upptime/upptime>
