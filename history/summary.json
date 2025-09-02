@@ -68,14 +68,14 @@
     "icon": "https://arcafin.fr/lighthouse/media/1dc7bbd1abdec0c569882d634701e5d2c4c57273253013728310546e.png",
     "slug": "lighthouse",
     "status": "up",
-    "uptime": "85.74%",
+    "uptime": "85.75%",
     "uptimeDay": "96.28%",
-    "uptimeWeek": "98.91%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "98.85%",
-    "uptimeYear": "85.74%",
+    "uptimeYear": "85.75%",
     "time": 215,
     "timeDay": 366,
-    "timeWeek": 255,
+    "timeWeek": 260,
     "timeMonth": 231,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -144,7 +144,7 @@
     "timeMonth": 1086,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2025-09-02": 1160,
+      "2025-09-02": 1172,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -213,14 +213,14 @@
     "url": "https://s.arcafin.fr/rest/v3/health",
     "icon": "https://icons.duckduckgo.com/ip3/s.arcafin.fr.ico",
     "slug": "shlink",
-    "status": "up",
-    "uptime": "62.68%",
-    "uptimeDay": "31.34%",
+    "status": "down",
+    "uptime": "62.99%",
+    "uptimeDay": "31.33%",
     "uptimeWeek": "42.52%",
-    "uptimeMonth": "62.68%",
-    "uptimeYear": "62.68%",
+    "uptimeMonth": "62.99%",
+    "uptimeYear": "62.99%",
     "time": 256,
-    "timeDay": 220,
+    "timeDay": 203,
     "timeWeek": 243,
     "timeMonth": 256,
     "timeYear": 256,
@@ -232,7 +232,7 @@
       "2025-08-29": 894,
       "2025-08-28": 663,
       "2025-08-27": 865,
-      "2025-08-26": 544
+      "2025-08-26": 498
     }
   }
 ]
