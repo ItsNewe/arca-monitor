@@ -143,7 +143,7 @@
     "timeMonth": 1086,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2025-09-02": 266,
+      "2025-09-02": 286,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -212,15 +212,15 @@
     "url": "https://s.arcafin.fr/rest/v3/health",
     "icon": "https://icons.duckduckgo.com/ip3/s.arcafin.fr.ico",
     "slug": "shlink",
-    "status": "up",
-    "uptime": "60.75%",
-    "uptimeDay": "33.76%",
-    "uptimeWeek": "44.58%",
-    "uptimeMonth": "60.75%",
-    "uptimeYear": "60.75%",
+    "status": "down",
+    "uptime": "60.94%",
+    "uptimeDay": "34.39%",
+    "uptimeWeek": "44.65%",
+    "uptimeMonth": "60.94%",
+    "uptimeYear": "60.94%",
     "time": 263,
     "timeDay": 211,
-    "timeWeek": 257,
+    "timeWeek": 259,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
@@ -232,7 +232,7 @@
       "2025-08-28": 663,
       "2025-08-27": 865,
       "2025-08-26": 652,
-      "2025-08-25": 427
+      "2025-08-25": 404
     }
   }
 ]
