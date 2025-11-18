@@ -1,7 +1,7 @@
 url: https://mx.arcafin.fr
-status: up
-code: 200
-responseTime: 833
-lastUpdated: 2025-11-17T23:24:14.915Z
+status: down
+code: 500
+responseTime: 210
+lastUpdated: 2025-11-18T11:36:39.245Z
 startTime: 2025-05-23T09:15:44.775Z
 generator: Upptime <https://github.com/upptime/upptime>
