@@ -1,7 +1,7 @@
 url: https://arcafin.fr/lighthouse
-status: up
-code: 200
-responseTime: 290
-lastUpdated: 2026-02-10T23:46:17.773Z
+status: down
+code: 502
+responseTime: 131
+lastUpdated: 2026-02-11T22:53:00.867Z
 startTime: 2025-04-25T13:37:41.647Z
 generator: Upptime <https://github.com/upptime/upptime>
