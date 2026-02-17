@@ -4,9 +4,6 @@ repo: arca-monitor
 sites:
   - name: Arca Home
     url: https://arcafin.fr
-  - name: Lighthouse
-    url: https://arcafin.fr/lighthouse
-    icon: https://arcafin.fr/lighthouse/media/1dc7bbd1abdec0c569882d634701e5d2c4c57273253013728310546e.png
   - name: Hermès
     url: https://mx.arcafin.fr
   - name: Shlink
