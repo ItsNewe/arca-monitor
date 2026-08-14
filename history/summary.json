@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/arcafin.fr.ico",
     "slug": "arca-home",
     "status": "down",
-    "uptime": "94.46%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.77%",
+    "uptime": "94.45%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.76%",
     "time": 458,
     "timeDay": 500,
     "timeWeek": 426,
@@ -19,7 +19,7 @@
       "2025-08-19": 18,
       "2025-11-19": 772,
       "2026-02-27": 431,
-      "2026-08-14": 4
+      "2026-08-14": 55
     }
   },
   {
@@ -27,17 +27,17 @@
     "url": "https://mx.arcafin.fr",
     "icon": "https://icons.duckduckgo.com/ip3/mx.arcafin.fr.ico",
     "slug": "hermes",
-    "status": "down",
+    "status": "up",
     "uptime": "83.50%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "91.17%",
-    "time": 782,
-    "timeDay": 463,
-    "timeWeek": 730,
-    "timeMonth": 822,
-    "timeYear": 845,
+    "time": 783,
+    "timeDay": 778,
+    "timeWeek": 806,
+    "timeMonth": 840,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2025-09-05": 1304,
       "2025-09-04": 1440,
@@ -75,7 +75,7 @@
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 890,
-      "2026-08-14": 0
+      "2026-08-14": 52
     }
   },
   {
@@ -83,16 +83,16 @@
     "url": "https://s.arcafin.fr/rest/v3/health",
     "icon": "https://icons.duckduckgo.com/ip3/s.arcafin.fr.ico",
     "slug": "shlink",
-    "status": "down",
-    "uptime": "96.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.79%",
+    "status": "up",
+    "uptime": "96.78%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "96.78%",
     "time": 397,
-    "timeDay": 393,
-    "timeWeek": 565,
-    "timeMonth": 573,
+    "timeDay": 467,
+    "timeWeek": 570,
+    "timeMonth": 574,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2025-08-27": 105,
@@ -114,7 +114,7 @@
       "2025-11-19": 808,
       "2026-02-27": 431,
       "2026-07-04": 78,
-      "2026-08-14": 0
+      "2026-08-14": 52
     }
   }
 ]
