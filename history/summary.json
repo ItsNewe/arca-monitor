@@ -4,13 +4,13 @@
     "url": "https://arcafin.fr",
     "icon": "https://icons.duckduckgo.com/ip3/arcafin.fr.ico",
     "slug": "arca-home",
-    "status": "up",
+    "status": "down",
     "uptime": "94.49%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.75%",
-    "time": 505,
+    "time": 506,
     "timeDay": 11510,
     "timeWeek": 2914,
     "timeMonth": 1127,
@@ -19,7 +19,7 @@
       "2025-11-19": 772,
       "2026-02-27": 431,
       "2026-08-14": 55,
-      "2026-08-19": 29
+      "2026-08-19": 32
     }
   },
   {
@@ -27,17 +27,17 @@
     "url": "https://mx.arcafin.fr",
     "icon": "https://icons.duckduckgo.com/ip3/mx.arcafin.fr.ico",
     "slug": "hermes",
-    "status": "up",
+    "status": "down",
     "uptime": "83.68%",
-    "uptimeDay": "98.06%",
+    "uptimeDay": "98.03%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "92.55%",
-    "time": 846,
-    "timeDay": 10787,
-    "timeWeek": 3489,
-    "timeMonth": 1682,
-    "timeYear": 929,
+    "time": 845,
+    "timeDay": 8137,
+    "timeWeek": 3213,
+    "timeMonth": 1640,
+    "timeYear": 927,
     "dailyMinutesDown": {
       "2025-09-05": 1304,
       "2025-09-04": 1440,
@@ -80,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.arcafin.fr.ico",
     "slug": "shlink",
     "status": "down",
-    "uptime": "96.84%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "96.84%",
+    "uptime": "96.83%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "96.83%",
     "time": 398,
     "timeDay": 490,
     "timeWeek": 485,
@@ -111,7 +111,7 @@
       "2026-02-27": 431,
       "2026-07-04": 78,
       "2026-08-14": 52,
-      "2026-08-19": 37
+      "2026-08-19": 64
     }
   }
 ]
