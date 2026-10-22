@@ -1,7 +1,7 @@
 url: https://s.arcafin.fr/rest/v3/health
 status: down
-code: 522
-responseTime: 19627
-lastUpdated: 2026-10-21T13:17:26.984Z
+code: 404
+responseTime: 663
+lastUpdated: 2026-10-22T01:24:13.237Z
 startTime: 2025-08-22T08:50:13.224Z
 generator: Upptime <https://github.com/upptime/upptime>
