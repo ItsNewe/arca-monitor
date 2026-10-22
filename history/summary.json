@@ -10,10 +10,10 @@
     "uptimeWeek": "97.14%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.69%",
-    "time": 509,
-    "timeDay": 380,
-    "timeWeek": 480,
-    "timeMonth": 467,
+    "time": 510,
+    "timeDay": 495,
+    "timeWeek": 489,
+    "timeMonth": 468,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2025-11-19": 772,
@@ -29,15 +29,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mx.arcafin.fr.ico",
     "slug": "hermes",
     "status": "down",
-    "uptime": "85.64%",
-    "uptimeDay": "79.97%",
-    "uptimeWeek": "97.14%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "97.27%",
+    "uptime": "85.57%",
+    "uptimeDay": "40.10%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "97.16%",
     "time": 901,
-    "timeDay": 10054,
-    "timeWeek": 3271,
-    "timeMonth": 1491,
+    "timeDay": 10096,
+    "timeWeek": 3240,
+    "timeMonth": 1478,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2025-11-18": 144,
@@ -56,7 +56,8 @@
       "2026-04-21": 890,
       "2026-08-14": 52,
       "2026-08-19": 54,
-      "2026-10-21": 288
+      "2026-10-22": 219,
+      "2026-10-21": 644
     }
   },
   {
@@ -65,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.arcafin.fr.ico",
     "slug": "shlink",
     "status": "down",
-    "uptime": "97.24%",
-    "uptimeDay": "80.06%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.13%",
+    "uptime": "97.14%",
+    "uptimeDay": "40.19%",
+    "uptimeWeek": "88.40%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "98.02%",
     "time": 530,
-    "timeDay": 10028,
-    "timeWeek": 2532,
-    "timeMonth": 1211,
-    "timeYear": 565,
+    "timeDay": 10145,
+    "timeWeek": 2529,
+    "timeMonth": 1208,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2025-11-25": 580,
       "2025-11-24": 1440,
@@ -88,7 +89,8 @@
       "2026-08-14": 52,
       "2026-08-19": 89,
       "2026-10-16": 308,
-      "2026-10-21": 287
+      "2026-10-22": 219,
+      "2026-10-21": 643
     }
   }
 ]
